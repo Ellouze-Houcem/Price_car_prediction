@@ -1,0 +1,11 @@
+
+.bg-dark{
+	background-color: #7b7b7b;
+}
+
+.mt-50{
+	margin-top: 25px;
+}
+#canvas{
+    border: 2px solid rgb(177, 38, 38);
+}
